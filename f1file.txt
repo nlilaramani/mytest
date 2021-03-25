@@ -1,3 +1,0 @@
-feature file
-adding another line to feature file
-Adding one more thing.
