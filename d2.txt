@@ -1,1 +1,2 @@
 This is the file added by developer 2
+Here is new code I want to add to repo
